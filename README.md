@@ -23,9 +23,13 @@ pip install -r requirements.txt
 __________________________________________________________________________________________________________________________________________________________________
 how to use?
 firs go to "https://my.telegram.org/" then login and create new application and get api-id and api-hash 
+----------------------------------------------------------------------------------------------------------------
 step 2 = go to main.py and change tha api-id and api-hash and num value 
+-----------------------------------------------------------------------------------------------------------------
 step 3 = fill username.txt with username (just username witeout @)
+----------------------------------------------------------------------------------------------------------------
 step 4 = run the script and get code to script and script will start the search and find the free user name and lock them on the new channel
+----------------------------------------------------------------------------------------------------------------
 important  = fill bio wite the bio you want be in channel bio
 __________________________________________________________________________________________________________________________________________________________________
 TNX FOR YOUR SUPPORT 
