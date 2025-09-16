@@ -26,7 +26,7 @@ firs go to "https://my.telegram.org/" then login and create new application and 
 ----------------------------------------------------------------------------------------------------------------
 step 2 = go to main.py and change tha api-id and api-hash and num value 
 -----------------------------------------------------------------------------------------------------------------
-step 3 = fill username.txt with username (just username witeout @)
+step 3 = change username.txt.exampel ti usernames.txt fill username.txt with usernames (just username witeout @)
 ----------------------------------------------------------------------------------------------------------------
 step 4 = run the script and get code to script and script will start the search and find the free user name and lock them on the new channel
 ----------------------------------------------------------------------------------------------------------------
