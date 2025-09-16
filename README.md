@@ -13,12 +13,12 @@ A **professional Python script** for automatically checking and registering free
 
 ---
 
-📦 Prerequisites
+##📦 Prerequisites
 - Python 3.10+
 - Telethon library
 
 Install with pip:
-```bash
+
 pip install -r requirements.txt
 __________________________________________________________________________________________________________________________________________________________________
 how to use?
